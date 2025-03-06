@@ -1,0 +1,21 @@
+Requisite Steps to follow to execute this project
+
+Library and Framework Installtion Steps
+
+!pip install torch 
+!pip install datasets peft -qq
+!pip install accelerate -qq
+!pip install bitsandbytes -qq
+
+Access Key for Gemma Model (HuggingFace)
+https://huggingface.co/settings/tokens 
+Make new tokens and copy the Key
+
+I would strongly suggest to use Google Colab tool and ennsure to run onn T4 GPU.
+
+Dataset : ilsilfverskiold/linkedin_profiles_synthetic
+https://huggingface.co/datasets/ilsilfverskiold/linkedin_profiles_synthetic
+
+At this step: 
+trainer.train()
+ensure to have API key from wandb.ai
