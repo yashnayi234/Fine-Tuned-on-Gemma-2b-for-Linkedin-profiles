@@ -36,3 +36,6 @@ By leveraging state-of-the-art transformer models and efficient fine-tuning tech
    ```bash
    git clone https://github.com/yashnayi234/Lightweight-Fine-Tuning-to-a-Foundation-Model.git
    cd Lightweight-Fine-Tuning-to-a-Foundation-Model
+
+```bash
+   pip install -r requirements.txt
