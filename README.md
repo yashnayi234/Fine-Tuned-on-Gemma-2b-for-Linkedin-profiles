@@ -1,4 +1,4 @@
-# Lightweight-Fine-Tuning-to-a-Foundation-Model
+# Fine-Tuned-on-Gemma-2b-for-Linkedin-profiles
 
 This project implements a lightweight fine-tuning workflow using Parameter-Efficient Fine-Tuning (PEFT) to adapt a pre-trained Hugging Face model (e.g., Gemma-2-2B) for a personalized career assistant. The tool is designed to:
 
@@ -34,8 +34,8 @@ By leveraging state-of-the-art transformer models and efficient fine-tuning tech
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yashnayi234/Lightweight-Fine-Tuning-to-a-Foundation-Model.git
-   cd Lightweight-Fine-Tuning-to-a-Foundation-Model
-
+   git clone https://github.com/yashnayi234/Fine-Tuned-on-Gemma-2b-for-Linkedin-profiles.git
+   cd Fine-Tuned-on-Gemma-2b-for-Linkedin-profiles
+   
 ```bash
    pip install -r requirements.txt
